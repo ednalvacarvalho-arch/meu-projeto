@@ -1,5 +1,6 @@
 # OlimpAPP 
 Um aplicativo de olimpiadas brasileiras 
+
 #Problema
 No Brasil, milhares de estudantes do ensino médio — especialmente de escolas públicas — deixam de participar de olimpíadas científicas e acadêmicas por falta de informação, organização e acesso a conteúdos específicos. Muitas vezes, os alunos nem sabem que existem olimpíadas como OBMEP, OBA, ONC, OBI, Canguru, entre outras, ou descobrem as inscrições somente após o encerramento do prazo.
 Além disso, mesmo quando conseguem se inscrever, muitos estudantes apresentam dificuldades para se preparar adequadamente, pois não possuem acesso fácil aos conteúdos cobrados, provas anteriores e materiais organizados de estudo. Isso reduz as chances de classificação e impede que diversos jovens tenham acesso a oportunidades acadêmicas, bolsas, medalhas e reconhecimento educacional.
